@@ -1,0 +1,18 @@
+{
+  "video": "What_to_do_when_the_stack_is_to_light._samsulek_sa_7284120914730519838.mp4",
+  "exercise": "tricep_extension",
+  "display_name": "Sam Sulek Tricep Extensions",
+  "reps_counted": 6,
+  "reps_actual": null,
+  "rep_timestamps_sec": [20.9, 24.6, 31.6, 32.9, 33.3, 37.4],
+  "duration_sec": 43.94,
+  "fps": 30.0,
+  "total_frames": 1317,
+  "pose_detection_rate": 0.861,
+  "primary_side": "left",
+  "angle_range_deg": 102.4,
+  "exercise_start_sec": 0.33,
+  "date": "2026-04-07",
+  "source": "tiktok",
+  "notes": "User says actual tricep extensions start at ~37s. Reps before that may be setup/adjusting. Set detection still catching some pre-set noise."
+}
