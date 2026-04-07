@@ -1,0 +1,17 @@
+{
+  "video": "testK_dumbpress.mp4",
+  "exercise": "bench_press",
+  "equipment": "dumbbells",
+  "reps_counted": 5,
+  "reps_actual": null,
+  "rep_timestamps_sec": [0.93, 7.67, 9.33, 11.8, 14.17],
+  "duration_sec": 22.83,
+  "fps": 30.0,
+  "total_frames": 685,
+  "pose_detection_rate": 0.778,
+  "primary_side": "right",
+  "angle_range_deg": 117.7,
+  "notes": "Dumbbell press test video. Shorter and cleaner than Smith machine videos. Need user to verify rep count.",
+  "date": "2026-04-07",
+  "source": "external_video"
+}

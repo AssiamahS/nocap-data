@@ -1,0 +1,17 @@
+{
+  "video": "video.mp4",
+  "exercise": "bench_press",
+  "reps_counted": 11,
+  "reps_actual": null,
+  "rep_timestamps_sec": [8.83, 11.43, 13.93, 22.7, 24.5, 27.7, 31.03, 33.47, 35.9, 38.83, 41.27],
+  "duration_sec": 60.63,
+  "fps": 30.0,
+  "total_frames": 1819,
+  "pose_detection_rate": 0.996,
+  "primary_side": "left",
+  "angle_range_deg": 140.8,
+  "exercise_start_sec": 2.37,
+  "notes": "TikTok/YouTube test video. 60 seconds, may contain multiple exercises. Need user to verify rep count.",
+  "date": "2026-04-07",
+  "source": "external_video"
+}
